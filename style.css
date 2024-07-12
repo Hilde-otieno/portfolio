@@ -1,0 +1,155 @@
+#container{
+    width: 1800px;
+    height: 100%;
+}
+#mine{
+    background-color:#111827;
+    height: 950px;
+    /* border-radius: 10px; */
+}
+#navbar{
+    gap:12%;
+    display: flex;
+    margin-left: 40%;
+    font-size: larger;
+    -webkit-text-fill-color:white;
+}
+#nav{
+gap: 5%;
+}
+#Hello{
+    display: flex;
+    margin-top: 200px;
+    font-size: x-large;
+    -webkit-text-fill-color:white;
+
+}
+#Meg{
+    font-size: 80px;
+    -webkit-text-fill-color:white;
+
+}
+#position{
+    font-size: x-large;
+    display: flex;
+    -webkit-text-fill-color: white;
+}
+#soft{
+    -webkit-text-fill-color: rgb(172, 129, 21);
+
+}
+#details{
+    display: flex;
+    margin-left: 2%;
+}
+#photo{
+    width: 600px;
+    height: 700px;
+    margin-top: 2.5%;
+    margin-left: 5%;
+}
+#me{
+    font-size: xxx-large;
+    text-align: center;
+}
+#personal{
+    width: 700px;
+    height: 450px;
+    font-size: x-large;
+    margin-left: 19%;
+    text-align: justify;
+    box-shadow: 20%;
+    padding-top: 7%;
+}
+#button{
+    width: 200px;
+    height: 60px;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-top: 10%;
+    margin-left: 35%;
+    -webkit-text-fill-color: black;
+    background-color:  rgb(172, 129, 21);
+    ;
+
+}
+#resume{
+    text-decoration: none;
+    -webkit-text-fill-color: black;
+}
+#img{
+    width: 400px;
+    height: 485px;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+#about{
+    display: flex;
+    width: 1400px;
+    height: 600px;
+    margin-left: 200px;
+    /* box-shadow: 0px 0px 32px 0 rgb(0, 0, 0); */
+}
+#services{
+    text-align: center;
+    font-size: xxx-large;
+    -webkit-text-fill-color: white;
+    padding-top: 70px;
+}
+#designs{
+    background-color:#1e2536;
+    width: 500px;
+    height: 750px;
+    padding-top: 40px;
+    margin-left: 73px;
+    text-align: justify;
+    border-radius: 50px;
+}
+#design-words{
+    -webkit-text-fill-color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    width: 400px;
+}
+#design-word{
+    -webkit-text-fill-color: white;
+    font-size: x-large;
+}
+#design{
+    background-color:#111827;
+
+}
+#img-design{
+    width: 450px;
+    height: 300px;
+    margin-left: 25px;
+}
+#frontend{
+    background-color:#1e2536;
+    width: 500px;
+    height: 750px;
+    padding-top: 40px;
+    margin-left: 100px;
+    text-align: justify;
+    border-radius: 50px;
+}
+#frontend-words{
+    -webkit-text-fill-color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+#frontend-word{
+    -webkit-text-fill-color: white;
+    font-size: x-large;
+}
+#courses{
+    display: flex;
+}
+#words{
+    width: 430px;
+    margin-left: 29px;
+}
